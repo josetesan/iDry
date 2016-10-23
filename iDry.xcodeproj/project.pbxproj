@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -211,7 +211,7 @@
 				};
 			};
 			buildConfigurationList = BBB2784F1D8D3DE900B9A92C /* Build configuration list for PBXProject "iDry" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -509,6 +509,7 @@
 				BBB278801D8D3DE900B9A92C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBB278811D8D3DE900B9A92C /* Build configuration list for PBXNativeTarget "iDryTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +518,7 @@
 				BBB278831D8D3DE900B9A92C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBB278841D8D3DE900B9A92C /* Build configuration list for PBXNativeTarget "iDryUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +527,7 @@
 				BBB278861D8D3DE900B9A92C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
