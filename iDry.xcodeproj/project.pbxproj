@@ -511,6 +511,7 @@
 				BBB278801D8D3DE900B9A92C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBB278811D8D3DE900B9A92C /* Build configuration list for PBXNativeTarget "iDryTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +520,7 @@
 				BBB278831D8D3DE900B9A92C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BBB278841D8D3DE900B9A92C /* Build configuration list for PBXNativeTarget "iDryUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +529,7 @@
 				BBB278861D8D3DE900B9A92C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
