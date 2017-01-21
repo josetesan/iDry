@@ -1,3 +1,3 @@
-github "Alamofire/Alamofire" ~> 4.2.0
+github "Alamofire/Alamofire" ~> 4.3.0
 github "hkellaway/Gloss"
 github "realm/realm-cocoa"
